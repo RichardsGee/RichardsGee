@@ -36,14 +36,6 @@ Transformo ideias complexas em soluções simples, visualmente impactantes e alt
 
 ---
 
-## 🌐 Contato
-
-- 🔗 [escalla.com](https://escalla.com)
-- 📧 richard@richard.com
-- 💼 [LinkedIn](https://linkedin.com/in/richardgiovanni)
-
----
-
 <p align="center">
   “Tornando o complexo acessível, o visual atraente e o processo eficiente.” 🚀
 </p>
