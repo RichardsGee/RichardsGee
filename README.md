@@ -36,6 +36,38 @@ Transformo ideias complexas em soluções simples, visualmente impactantes e alt
 
 ---
 
+## 💻 Tecnologias que uso
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 <p align="center">
   “Tornando o complexo acessível, o visual atraente e o processo eficiente.” 🚀
 </p>
