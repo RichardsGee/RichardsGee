@@ -21,10 +21,3 @@ Designer focado em **eficiência operacional, automação prática e UX integrad
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
 </div>
-
----
-
-## Contato
-
-- 🌐 [escalla.com](https://escalla.com)
-- 📫 richard@richard.com
