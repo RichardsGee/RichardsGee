@@ -19,6 +19,8 @@ Transformo ideias complexas em soluções simples, visualmente impactantes e alt
 
 - 🧩 **Especialista em Prompt Engineering e IA aplicada a negócios**
 - 🧠 Fundador da **ESCALLA** — automação inteligente com IA
+- 🛒 Fundador da **Guia Seller** — gestão e automação para marketplaces
+- 🎓 **Mentorando** em desenvolvimento estratégico e liderança
 - ⚙️ Stack: Node.js · n8n · React · PostgreSQL · APIs · sistemas distribuídos
 - 🎯 Entusiasta em transformar operações manuais em **máquinas autônomas de resultado**
 
@@ -54,7 +56,6 @@ Transformo ideias complexas em soluções simples, visualmente impactantes e alt
 </table>
 
 </div>
-
 
 <p align="center">
   “Tornando o complexo acessível, o visual atraente e o processo eficiente.” 🚀
