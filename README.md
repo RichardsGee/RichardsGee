@@ -1,84 +1,93 @@
-<h1 align="center">🚀 Richard Giovanni</h1>
+<h1 align="center">Richard Giovanni</h1>
 <p align="center">
-  🎯 Design Estratégico · 🧪 QA · ⚙️ Automação · 🧠 IA aplicada a negócios · 🧩 Prompt Engineering · 🗃️ DBA
+  <strong>AI Architect &middot; Prompt Engineer &middot; Automation Strategist</strong>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Pro-purple?style=flat&logo=github" alt="GitHub Pro Badge" />
-  <img src="https://img.shields.io/badge/QA-Quality%20Assurance-2ea44f?style=flat&logo=checkmarx" alt="QA Badge" />
-  <img src="https://img.shields.io/badge/n8n-Automation%20Specialist-orange?style=flat&logo=n8n" alt="n8n Specialist" />
-  <img src="https://img.shields.io/badge/RabbitMQ-Message%20Broker-ff6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ Badge" />
-  <img src="https://img.shields.io/badge/Redis-Queues%20%26%20Cache-dc382d?style=flat&logo=redis&logoColor=white" alt="Redis Badge" />
-  <img src="https://img.shields.io/badge/DBA-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="DBA Badge" />
+  <img src="https://img.shields.io/badge/AI-Architect-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="AI Architect" />
+  <img src="https://img.shields.io/badge/Prompt-Engineering-ff6f00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Specialist-00c853?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Automation-n8n%20%7C%20Workers-orange?style=for-the-badge&logo=n8n" alt="Automation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-Pro-purple?style=flat&logo=github" alt="GitHub Pro" />
+  <img src="https://img.shields.io/badge/QA-Quality%20Assurance-2ea44f?style=flat&logo=checkmarx" alt="QA" />
+  <img src="https://img.shields.io/badge/DBA-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="DBA" />
+  <img src="https://img.shields.io/badge/Redis-Cache%20%26%20Queues-dc382d?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Messaging-ff6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
-Sou um Designer Estratégico com foco em **eficiência operacional**, **automação de processos** e **experiência integrada** — e atualmente atuo forte também com **QA** e **infra de automação**.
-
-Transformo operações manuais em sistemas confiáveis, escaláveis e observáveis: **workflows**, **workers/jobs**, **mensageria**, **filas**, **dados** e **qualidade ponta a ponta**.
-
-- 🧪 **QA**: testes, validação de fluxos, prevenção de regressão e melhoria contínua
-- 🧩 **Prompt Engineering e IA aplicada a negócios**
-- ⚙️ **Automação com n8n + workers/jobs**
-- 📨 **RabbitMQ**: filas, roteamento, consumo por workers e resiliência operacional
-- ⚡ **Redis**: cache, filas/streams, rate-limit e apoio a processamento assíncrono
-- 🗃️ **DBA (PostgreSQL)**: modelagem, performance, queries, índices, manutenção e confiabilidade
-- 🧠 Fundador da **ESCALLA** — automação inteligente com IA
-- 🛒 Fundador da **Guia Seller** — gestão e automação para marketplaces
-- 🎓 Mentorando em desenvolvimento estratégico e liderança
+Especialista em **Inteligencia Artificial aplicada a negocios**, com foco em **arquitetura de prompts**, **design de agentes autonomos** e **automacao inteligente**. Uno visao estrategica de produto com execucao tecnica para transformar operacoes complexas em sistemas eficientes e escalaveis.
 
 ---
 
-## 🧰 Stack / Ecossistema
+## Especialidades em IA
+
+**Prompt Engineering & Prompt Architecture**
+- Design e otimizacao de prompts para LLMs (GPT, Claude, Gemini, LLaMA)
+- Tecnicas avancadas: Chain-of-Thought, Few-Shot, Tree-of-Thought, ReAct
+- Arquitetura de sistemas multi-prompt com roteamento e orquestracao
+- Avaliacao sistematica de qualidade e consistencia de outputs
+
+**AI Agents & Automacao Inteligente**
+- Design de agentes autonomos com tool-use, memoria e planejamento
+- Orquestracao de multi-agentes para workflows complexos
+- Integracao de LLMs com APIs, bancos de dados e sistemas externos
+- RAG (Retrieval-Augmented Generation) para contextos especializados
+
+**IA Aplicada a Negocios**
+- Automacao de processos operacionais com IA generativa
+- Analise e extracao inteligente de dados nao-estruturados
+- Assistentes virtuais e chatbots com contexto de dominio
+- Estrategia de adocao de IA em equipes e produtos
+
+---
+
+## Stack & Ecossistema
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/><br/>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/><br/>
-      <sub><b>Redis</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ"/><br/>
-      <sub><b>RabbitMQ</b></sub>
-    </td>
-  </tr>
-</table>
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **IA & LLMs** | OpenAI API, Claude API, LangChain, CrewAI, RAG, Vector DBs |
+| **Automacao** | n8n, Workers/Jobs, Webhooks, Event-Driven Workflows |
+| **Mensageria** | RabbitMQ, Redis Streams, Filas assincrona |
+| **Backend** | Node.js, JavaScript, REST APIs |
+| **Banco de Dados** | PostgreSQL (DBA), Redis, Modelagem & Performance |
+| **QA** | Testes automatizados, Validacao de fluxos, CI/CD |
+| **Frontend** | React |
 
 </div>
 
 ---
 
-## ✅ O que eu entrego (na prática)
+## O que eu entrego
 
-- Automação de processos com rastreabilidade e SLA (n8n + workers)
-- Arquitetura de filas e processamento assíncrono (RabbitMQ/Redis)
-- Observabilidade e confiabilidade de operação (erros, retries, idempotência)
-- Qualidade ponta a ponta: testes, validação de fluxos e redução de retrabalho
-- Banco de dados: modelagem, performance e manutenção (PostgreSQL)
+- **Arquitetura de prompts** e pipelines de IA prontos para producao
+- **Agentes autonomos** que executam tarefas complexas com minima intervencao
+- **Automacao end-to-end** com rastreabilidade, SLA e observabilidade
+- **Integracao de IA** em sistemas existentes (APIs, filas, bancos de dados)
+- **Qualidade ponta a ponta**: testes, validacao e melhoria continua
+
+---
+
+## Projetos
+
+**ESCALLA** — Automacao inteligente com IA
+Plataforma de automacao que combina agentes de IA com workflows para otimizar operacoes empresariais.
+
+**Guia Seller** — Gestao e automacao para marketplaces
+Sistema de gestao e automacao focado em vendedores de marketplaces.
 
 ---
 
 <p align="center">
-  “Tornando o complexo acessível, o visual atraente e o processo eficiente.” 🚀
+  <i>"Transforming complex operations into intelligent, autonomous systems."</i>
 </p>
