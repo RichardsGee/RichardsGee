@@ -1,37 +1,37 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Richard%20Giovanni&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20%E2%80%A2%20Prompt%20Engineer%20%E2%80%A2%20Automation%20Strategist&descAlignY=58&descSize=19" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Richard%20Giovanni&fontSize=54&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=AI%20Architect%20%E2%80%A2%20Prompt%20Engineer%20%E2%80%A2%20Automation%20Strategist&descAlignY=56&descSize=20" width="100%" />
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%A4%96+Construindo+o+futuro+com+Intelig%C3%AAncia+Artificial;%F0%9F%9A%80+Transformando+opera%C3%A7%C3%B5es+complexas+em+sistemas+aut%C3%B4nomos;%F0%9F%A7%A0+Prompt+Engineering+%7C+AI+Agents+%7C+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AI%20Architect-A855F7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Architect" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%20Agents%20Specialist-6D28D9?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Automation%20%7C%20n8n-5B21B6?style=for-the-badge&logo=n8n&logoColor=white" alt="Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%A4%96+Building+the+future+with+Artificial+Intelligence;%F0%9F%9A%80+Transforming+complex+ops+into+autonomous+systems;%F0%9F%A7%A0+Prompt+Engineering+%7C+AI+Agents+%7C+Automation;%E2%9A%A1+LLMs+connected+to+the+real+world" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Pro-A855F7?style=flat-square&logo=github&logoColor=white" alt="GitHub Pro" />
+  <img src="https://img.shields.io/badge/AI%20Architect-A855F7?style=for-the-badge&logo=openai&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/QA%20Engineer-7C3AED?style=flat-square&logo=checkmarx&logoColor=white" alt="QA" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/DBA%20PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white" alt="DBA" />
+  <img src="https://img.shields.io/badge/AI%20Agents%20Specialist-6D28D9?style=for-the-badge&logo=probot&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Redis%20Cache%20%26%20Queues-5B21B6?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Automation%20%7C%20n8n-5B21B6?style=for-the-badge&logo=n8n&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Pro-A855F7?style=flat-square&logo=github&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/RabbitMQ%20Messaging-4C1D95?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/QA%20Engineer-7C3AED?style=flat-square&logo=checkmarx&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DBA%20PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Redis%20Cache%20%26%20Queues-5B21B6?style=flat-square&logo=redis&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ%20Messaging-4C1D95?style=flat-square&logo=rabbitmq&logoColor=white" />
 </div>
 
 <br/>
@@ -40,45 +40,46 @@
 
 ## 🧑‍💻 Sobre mim
 
-> *"Transforming complex operations into intelligent, autonomous systems."*
-
-Sou especialista em **Inteligência Artificial aplicada a negócios**, com foco em **arquitetura de prompts**, **design de agentes autônomos** e **automação inteligente**. Uno visão estratégica de produto com execução técnica de alto nível para transformar operações complexas em sistemas **eficientes**, **escaláveis** e **autônomos**.
-
-Minha missão é conectar o poder das LLMs ao mundo real — criando soluções que geram **impacto tangível** e **valor de negócio** desde o dia zero.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=A855F7&center=true&vCenter=true&width=700&height=30&lines=%22Transforming+complex+operations+into+intelligent%2C+autonomous+systems.%22" alt="Quote" />
+</div>
 
 <br/>
 
----
-
-## 🧠 Especialidades em IA
-
-<table>
+<table border="0" align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="55%" valign="middle">
 
-### ⚡ Prompt Engineering & Architecture
-- Design e otimização de prompts para **GPT, Claude, Gemini, LLaMA**
-- Técnicas avançadas: **Chain-of-Thought**, **Few-Shot**, **Tree-of-Thought**, **ReAct**
-- Arquitetura de sistemas **multi-prompt** com roteamento e orquestração
-- Avaliação sistemática de qualidade e consistência de outputs
+<img src="https://img.shields.io/badge/-%F0%9F%A7%A0%20IA%20Aplicada%20a%20Neg%C3%B3cios-A855F7?style=flat-square" /> &nbsp;
+<img src="https://img.shields.io/badge/-%F0%9F%8E%AF%20Arquitetura%20de%20Prompts-7C3AED?style=flat-square" /> &nbsp;
+<img src="https://img.shields.io/badge/-%F0%9F%A4%96%20Agentes%20Aut%C3%B4nomos-6D28D9?style=flat-square" />
+
+<br/><br/>
+
+Especialista em **Inteligência Artificial aplicada a negócios**, uno visão estratégica de produto com execução técnica de alto nível. Transformo operações complexas em sistemas:
+
+<br/>
+
+> ⚡ **Eficientes** — menos desperdício, mais throughput  
+> 📐 **Escaláveis** — cresce com o negócio sem retrabalho  
+> 🤖 **Autônomos** — decisões e ações sem intervenção humana
+
+<br/>
+
+Minha missão é **conectar o poder das LLMs ao mundo real** — criando soluções que geram impacto tangível e valor de negócio desde o dia zero.
 
 </td>
-<td width="33%" valign="top">
+<td width="45%" valign="middle" align="center">
 
-### 🤖 AI Agents & Automação
-- Agentes autônomos com **tool-use**, **memória** e **planejamento**
-- Orquestração de **multi-agentes** para workflows complexos
-- Integração de LLMs com **APIs**, **bancos de dados** e sistemas externos
-- **RAG** (Retrieval-Augmented Generation) para contextos especializados
+<img src="https://github-readme-stats.vercel.app/api?username=RichardsGee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&hide_title=true" width="100%" alt="GitHub Stats" />
 
-</td>
-<td width="33%" valign="top">
+<br/>
 
-### 📊 IA Aplicada a Negócios
-- Automação de processos com **IA generativa**
-- Análise e extração inteligente de **dados não-estruturados**
-- Assistentes virtuais e **chatbots** com contexto de domínio
-- Estratégia de **adoção de IA** em equipes e produtos
+<img src="https://img.shields.io/badge/📍%20Brasil-0D1117?style=flat-square&logo=googlemaps&logoColor=A855F7" />
+&nbsp;
+<img src="https://img.shields.io/badge/💬%20PT%20%7C%20EN-0D1117?style=flat-square&logoColor=A855F7" />
+&nbsp;
+<img src="https://img.shields.io/badge/⚡%20Open%20to%20Collab-A855F7?style=flat-square" />
 
 </td>
 </tr>
@@ -88,19 +89,130 @@ Minha missão é conectar o poder das LLMs ao mundo real — criando soluções 
 
 ---
 
+## 🧠 Especialidades em IA
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td width="33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/⚡%20Prompt%20Engineering-A855F7?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/%26%20Architecture-7C3AED?style=for-the-badge" />
+
+<br/><br/>
+
+```
+GPT · Claude · Gemini · LLaMA
+Chain-of-Thought · Few-Shot
+Tree-of-Thought · ReAct
+Multi-prompt · Orquestração
+Avaliação de qualidade
+```
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/🤖%20AI%20Agents-A855F7?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/%26%20Automa%C3%A7%C3%A3o-7C3AED?style=for-the-badge" />
+
+<br/><br/>
+
+```
+Tool-use · Memória · Planejamento
+Multi-agentes · Workflows
+LLMs + APIs + Databases
+RAG · Vector Stores
+CrewAI · LangChain
+```
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/📊%20IA%20Aplicada-A855F7?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/a%20Neg%C3%B3cios-7C3AED?style=for-the-badge" />
+
+<br/><br/>
+
+```
+IA Generativa · Processos
+Dados não-estruturados
+Chatbots · Domínio específico
+Estratégia de adoção
+Impacto & ROI medíveis
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
 ## 🛠️ Stack & Ecossistema
 
 <div align="center">
 
-| 🏷️ Categoria | 💡 Tecnologias |
-|:---:|:---|
-| **🤖 IA & LLMs** | `OpenAI API` `Claude API` `LangChain` `CrewAI` `RAG` `Vector DBs` |
-| **⚙️ Automação** | `n8n` `Workers/Jobs` `Webhooks` `Event-Driven Workflows` |
-| **📨 Mensageria** | `RabbitMQ` `Redis Streams` `Filas Assíncronas` |
-| **🔧 Backend** | `Node.js` `JavaScript` `REST APIs` |
-| **🗄️ Banco de Dados** | `PostgreSQL (DBA)` `Redis` `Modelagem & Performance` |
-| **✅ QA** | `Testes Automatizados` `Validação de Fluxos` `CI/CD` |
-| **🎨 Frontend** | `React` |
+**🤖 IA & LLMs**
+
+<img src="https://skillicons.dev/icons?i=py,nodejs,js,react&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Claude%20API-D4A017?style=for-the-badge&logo=anthropic&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/CrewAI-A855F7?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/RAG%20%2B%20Vector%20DBs-7C3AED?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+**⚙️ Automação & Mensageria**
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Webhooks%20%2F%20Events-6D28D9?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+**🔧 Backend & Banco de Dados**
+
+<img src="https://skillicons.dev/icons?i=nodejs,js,postgres,redis&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL%20DBA-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=A855F7" />
+
+<br/><br/>
+
+**🎨 Frontend & QA**
+
+<img src="https://skillicons.dev/icons?i=react,jest&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/Testes%20Automatizados-A855F7?style=for-the-badge&logo=checkmarx&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=A855F7" />
 
 </div>
 
@@ -112,13 +224,35 @@ Minha missão é conectar o poder das LLMs ao mundo real — criando soluções 
 
 <div align="center">
 
-| | Entrega | Descrição |
-|:---:|:---|:---|
-| 🏗️ | **Arquitetura de Prompts** | Pipelines de IA prontos para produção com qualidade enterprise |
-| 🤖 | **Agentes Autônomos** | Sistemas que executam tarefas complexas com mínima intervenção humana |
-| 🔄 | **Automação End-to-End** | Workflows completos com rastreabilidade, SLA e observabilidade |
-| 🔌 | **Integração de IA** | Conexão inteligente com APIs, filas, bancos de dados e sistemas legados |
-| ✅ | **Qualidade Ponta a Ponta** | Testes, validação contínua e melhoria iterativa de performance |
+<table border="0">
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🏗️-0D1117?style=for-the-badge" /><br/>
+<b>Arquitetura<br/>de Prompts</b><br/><br/>
+<sub>Pipelines de IA prontos<br/>para produção com<br/>qualidade enterprise</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🤖-0D1117?style=for-the-badge" /><br/>
+<b>Agentes<br/>Autônomos</b><br/><br/>
+<sub>Sistemas que executam<br/>tarefas complexas com<br/>mínima intervenção humana</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🔄-0D1117?style=for-the-badge" /><br/>
+<b>Automação<br/>End-to-End</b><br/><br/>
+<sub>Workflows com<br/>rastreabilidade, SLA<br/>e observabilidade</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🔌-0D1117?style=for-the-badge" /><br/>
+<b>Integração<br/>de IA</b><br/><br/>
+<sub>Conexão com APIs,<br/>filas, bancos e<br/>sistemas legados</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/✅-0D1117?style=for-the-badge" /><br/>
+<b>Qualidade<br/>Ponta a Ponta</b><br/><br/>
+<sub>Testes, validação<br/>contínua e melhoria<br/>iterativa de performance</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -130,22 +264,40 @@ Minha missão é conectar o poder das LLMs ao mundo real — criando soluções 
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
 <td align="center" width="50%">
 
-### 🚀 ESCALLA
+<img src="https://img.shields.io/badge/🚀%20ESCALLA-A855F7?style=for-the-badge" />
+
 **Automação Inteligente com IA**
 
-Plataforma de automação que combina **agentes de IA** com workflows para otimizar operações empresariais. Reduzindo custos operacionais e acelerando processos com inteligência artificial.
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Workflows-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+
+<br/><br/>
+
+Plataforma que combina **agentes de IA** com workflows para otimizar operações empresariais — reduzindo custos operacionais e acelerando processos com inteligência artificial.
 
 </td>
 <td align="center" width="50%">
 
-### 🛒 Guia Seller
+<img src="https://img.shields.io/badge/🛒%20Guia%20Seller-7C3AED?style=for-the-badge" />
+
 **Gestão & Automação para Marketplaces**
 
-Sistema completo de gestão e automação focado em **vendedores de marketplaces**, integrando análise de dados, precificação e automação de tarefas repetitivas.
+<br/>
+
+<img src="https://img.shields.io/badge/Marketplace-A855F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Precifica%C3%A7%C3%A3o-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Analytics-5B21B6?style=flat-square" />
+
+<br/><br/>
+
+Sistema completo de gestão e automação para **vendedores de marketplaces**, com análise de dados, precificação inteligente e automação de tarefas repetitivas.
 
 </td>
 </tr>
@@ -170,7 +322,7 @@ Sistema completo de gestão e automação focado em **vendedores de marketplaces
 ## 📈 GitHub Stats
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=RichardsGee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
@@ -207,8 +359,8 @@ Sistema completo de gestão e automação focado em **vendedores de marketplaces
 <br/>
 
 <div align="center">
-  <b>✨ Vamos construir algo incrível juntos? ✨</b>
-  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=3000&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=%E2%9C%A8+Vamos+construir+algo+incr%C3%ADvel+juntos%3F+%E2%9C%A8" alt="CTA" />
+  <br/>
   <i>"A melhor forma de prever o futuro é construí-lo — com inteligência artificial."</i>
 </div>
 
