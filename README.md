@@ -1,31 +1,40 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Richard%20Giovanni&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI%20Architect%20%E2%80%A2%20Prompt%20Engineer%20%E2%80%A2%20Automation%20Strategist&descAlignY=52&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Richard%20Giovanni&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20%E2%80%A2%20Prompt%20Engineer%20%E2%80%A2%20Automation%20Strategist&descAlignY=58&descSize=19" width="100%" />
 
-  <br/>
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=55&lines=%F0%9F%A4%96+Construindo+o+futuro+com+Intelig%C3%AAncia+Artificial;%F0%9F%9A%80+Transformando+opera%C3%A7%C3%B5es+complexas+em+sistemas+aut%C3%B4nomos;%F0%9F%A7%A0+Prompt+Engineering+%7C+AI+Agents+%7C+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%A4%96+Construindo+o+futuro+com+Intelig%C3%AAncia+Artificial;%F0%9F%9A%80+Transformando+opera%C3%A7%C3%B5es+complexas+em+sistemas+aut%C3%B4nomos;%F0%9F%A7%A0+Prompt+Engineering+%7C+AI+Agents+%7C+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI-Architect-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="AI Architect" />
-  <img src="https://img.shields.io/badge/Prompt-Engineering-ff6f00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Specialist-00c853?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Automation-n8n%20%7C%20Workers-orange?style=for-the-badge&logo=n8n" alt="Automation" />
+  <img src="https://img.shields.io/badge/AI%20Architect-A855F7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Architect" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20Agents%20Specialist-6D28D9?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Automation%20%7C%20n8n-5B21B6?style=for-the-badge&logo=n8n&logoColor=white" alt="Automation" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Pro-purple?style=flat-square&logo=github" alt="GitHub Pro" />
-  <img src="https://img.shields.io/badge/QA-Quality%20Assurance-2ea44f?style=flat-square&logo=checkmarx" alt="QA" />
-  <img src="https://img.shields.io/badge/DBA-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="DBA" />
-  <img src="https://img.shields.io/badge/Redis-Cache%20%26%20Queues-dc382d?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/RabbitMQ-Messaging-ff6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/GitHub%20Pro-A855F7?style=flat-square&logo=github&logoColor=white" alt="GitHub Pro" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/QA%20Engineer-7C3AED?style=flat-square&logo=checkmarx&logoColor=white" alt="QA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DBA%20PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white" alt="DBA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Redis%20Cache%20%26%20Queues-5B21B6?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ%20Messaging-4C1D95?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </div>
+
+<br/>
 
 ---
 
@@ -36,6 +45,8 @@
 Sou especialista em **Inteligência Artificial aplicada a negócios**, com foco em **arquitetura de prompts**, **design de agentes autônomos** e **automação inteligente**. Uno visão estratégica de produto com execução técnica de alto nível para transformar operações complexas em sistemas **eficientes**, **escaláveis** e **autônomos**.
 
 Minha missão é conectar o poder das LLMs ao mundo real — criando soluções que geram **impacto tangível** e **valor de negócio** desde o dia zero.
+
+<br/>
 
 ---
 
@@ -73,6 +84,8 @@ Minha missão é conectar o poder das LLMs ao mundo real — criando soluções 
 </tr>
 </table>
 
+<br/>
+
 ---
 
 ## 🛠️ Stack & Ecossistema
@@ -91,6 +104,8 @@ Minha missão é conectar o poder das LLMs ao mundo real — criando soluções 
 
 </div>
 
+<br/>
+
 ---
 
 ## 🚀 O que eu entrego
@@ -106,6 +121,8 @@ Minha missão é conectar o poder das LLMs ao mundo real — criando soluções 
 | ✅ | **Qualidade Ponta a Ponta** | Testes, validação contínua e melhoria iterativa de performance |
 
 </div>
+
+<br/>
 
 ---
 
@@ -136,13 +153,33 @@ Sistema completo de gestão e automação focado em **vendedores de marketplaces
 
 </div>
 
+<br/>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RichardsGee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RichardsGee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=RichardsGee&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=RichardsGee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=RichardsGee&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -151,18 +188,20 @@ Sistema completo de gestão e automação focado em **vendedores de marketplaces
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardsGee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RichardsGee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" width="95%" alt="Activity Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RichardsGee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7" width="97%" alt="Activity Graph" />
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RichardsGee&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RichardsGee&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -175,4 +214,4 @@ Sistema completo de gestão e automação focado em **vendedores de marketplaces
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
