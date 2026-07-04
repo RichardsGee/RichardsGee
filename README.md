@@ -1,52 +1,108 @@
 <div align="center">
 
-# Richard Giovanni
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0EA5E9&height=180&section=header&text=Richard%20Giovanni&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20%C2%B7%20Prompt%20Engineer%20%C2%B7%20Automation%20Strategist&descAlignY=58&descSize=16&descColor=cbd5e1" width="100%" />
 
-**AI Architect · Prompt Engineer · Automation Strategist**
+<br/>
 
-Construindo agentes de IA e automações que conectam LLMs ao mundo real.
+Construindo **agentes de IA** e **automações** que conectam LLMs ao mundo real.
 
-<img src="https://img.shields.io/badge/AI%20Agents-0EA5E9?style=flat-square&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-0284C7?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-0369A1?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/📍%20Brasil-0D1117?style=flat-square" />
+<br/>
+
+<a href="#"><img src="https://img.shields.io/badge/AI%20Agents-0EA5E9?style=for-the-badge&logo=probot&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Prompt%20Engineering-0284C7?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Automation-0369A1?style=for-the-badge&logo=n8n&logoColor=white" /></a>
 
 </div>
 
----
-
-### 🧠 Especialidades
-
-- **Prompt Engineering** — GPT, Claude, Gemini, LLaMA · Chain-of-Thought, ReAct, Few-Shot · orquestração e avaliação de qualidade
-- **AI Agents & Automação** — tool-use, memória e planejamento · multi-agentes, RAG e vector stores · CrewAI, LangChain, n8n
-- **IA Aplicada a Negócios** — processos, chatbots e dados · estratégia de adoção · impacto e ROI medíveis
-
-### 🛠️ Stack
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D4A017?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
-
-### 💼 Projetos
-
-- **🚀 ESCALLA** — plataforma de automação inteligente com agentes de IA e workflows para reduzir custos e acelerar operações.
-- **🛒 Guia Seller** — sistema para vendedores de marketplaces: dados, precificação inteligente e automação de tarefas repetitivas.
-
-### 📊 Stats
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RichardsGee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=FFFFFF&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RichardsGee&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" height="150" alt="GitHub Streak" />
+
+## 🧠 &nbsp; Especialidades
+
 </div>
 
+<table align="center" width="100%">
+<tr valign="top">
+<td width="33%" align="center">
+
+### ⚡ Prompt Engineering
+GPT · Claude · Gemini · LLaMA<br/>
+Chain-of-Thought · ReAct · Few-Shot<br/>
+Orquestração & avaliação
+
+</td>
+<td width="33%" align="center">
+
+### 🤖 AI Agents & Automação
+Tool-use · Memória · Planejamento<br/>
+Multi-agentes · RAG · Vector Stores<br/>
+CrewAI · LangChain · n8n
+
+</td>
+<td width="33%" align="center">
+
+### 📊 IA para Negócios
+Processos · Chatbots · Dados<br/>
+Estratégia de adoção de IA<br/>
+Impacto & ROI medíveis
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
+
+## 🛠️ &nbsp; Stack
+
+<img src="https://skillicons.dev/icons?i=openai,langchain,nodejs,js,react,postgres,redis,rabbitmq,docker&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 💼 &nbsp; Projetos
+
+</div>
+
+<table align="center" width="100%">
+<tr valign="top">
+<td width="50%" align="center">
+
+### 🚀 ESCALLA
+Plataforma de automação inteligente com<br/>
+agentes de IA e workflows — reduz custos<br/>
+e acelera operações empresariais.
+
+</td>
+<td width="50%" align="center">
+
+### 🛒 Guia Seller
+Sistema para vendedores de marketplaces:<br/>
+dados, precificação inteligente e automação<br/>
+de tarefas repetitivas.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## 📊 &nbsp; Estatísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=RichardsGee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=cbd5e1&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RichardsGee&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=cbd5e1&dates=64748b" height="165" />
+
+<br/><br/>
+
 <sub><i>"A melhor forma de prever o futuro é construí-lo — com inteligência artificial."</i></sub>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0D1117&height=100&section=footer&reversal=true" width="100%" />
