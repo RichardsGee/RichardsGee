@@ -1,160 +1,55 @@
-<div align="center">
+## Richard Giovanni
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,35:075985,70:1D4ED8,100:15803D&height=120&section=header&text=Richard%20Giovanni&fontSize=38&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&stroke=38BDF8&strokeWidth=1&desc=AI%20Systems%20Architect%20%C2%B7%20Spec-Driven%20Development%20%C2%B7%20Automation&descSize=14&descAlignY=68&descColor=D1D5DB" width="100%" />
+**Strategic Designer · AI Systems Architect · Automation & Integration**
 
-<img src="https://img.shields.io/badge/AI%20Systems-0284C7?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Spec--Driven-2563EB?style=flat-square&logo=markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-16A34A?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Marketplaces-EA580C?style=flat-square&logo=shopify&logoColor=white" />
+I design and build systems that connect **AI, software, data and real-world operations**.
 
-<img src="https://komarev.com/ghpvc/?username=RichardsGee&style=flat-square&color=0E7490&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/RichardsGee?style=flat-square&color=2563EB&label=FOLLOWERS" />
+My work focuses on agentic architectures, automation, system integration and developer tooling — turning complex workflows into reliable and scalable systems.
 
-</div>
+### Focus
 
-<h3>Sobre</h3>
+`AI Agents` `Multi-Agent Systems` `RAG` `LLMs`
+`Tool Use` `Memory` `Planning` `Context Engineering`
+`APIs` `Webhooks` `Event-Driven Systems`
+`Automation` `Integrations` `Data Pipelines`
 
-<table>
-<tr>
-<td width="55%" valign="top">
+### I contribute to
 
-**Designer estratégico e arquiteto de sistemas com IA**, focado em transformar processos complexos em soluções automatizadas, integradas e escaláveis.
+* AI agent architectures and orchestration
+* Multi-agent systems
+* RAG and contextual retrieval
+* LLM tool-use and function calling
+* Memory and state management
+* API integrations and webhooks
+* Event-driven architectures
+* Workflow and process automation
+* PostgreSQL and data modeling
+* Observability and system reliability
+* Developer tooling
+* E-commerce and marketplace infrastructure
 
-Desenvolvo produtos que conectam modelos de IA, software, dados e operações reais.
+### Areas of interest
 
-</td>
-<td width="45%" valign="top">
+**AI Engineering**
+`Agents` `RAG` `LLMs` `Context Engineering` `MCP`
 
-**Áreas principais**
+**Backend & Integration**
+`APIs` `Webhooks` `Events` `Microservices` `Automation`
 
-`AI Agents` `Multi-Agent Systems` `RAG`
-`APIs` `Webhooks` `Event-Driven`
-`Automação` `Dados` `Marketplaces`
+**Data**
+`PostgreSQL` `Data Pipelines` `Analytics` `Data Modeling`
 
-</td>
-</tr>
-</table>
+**Systems**
+`Architecture` `Observability` `Scalability` `Reliability`
 
-<h3>Projetos</h3>
+**Product & Operations**
+`Strategic Design` `Process Design` `Operational Intelligence`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Open Source
 
-#### Guia Seller
+Interested in contributing to projects involving:
 
-Plataforma de inteligência operacional para vendedores de marketplaces.
+`AI Infrastructure` `Agent Frameworks` `Developer Tools`
+`Automation` `Data Infrastructure` `E-commerce Infrastructure`
 
-`Integrações` `Pedidos` `Produtos`
-`Precificação` `Rentabilidade` `Analytics`
-
-</td>
-<td width="50%" valign="top">
-
-#### ESCALLA AI
-
-Ecossistema de agentes, automações e soluções empresariais com inteligência artificial.
-
-`AI Agents` `Workflows` `LLMs`
-`APIs` `Processos` `Estratégia`
-
-</td>
-</tr>
-</table>
-
-<h3>Stack</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,postgres,redis,rabbitmq,docker,git,github&theme=dark" />
-
-<img src="https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-161B22?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-161B22?style=flat-square&logo=prisma&logoColor=white" />
-
-</div>
-
-<h3>Estatísticas</h3>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RichardsGee&theme=github_dark" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RichardsGee&theme=github_dark&utcOffset=-3" width="100%" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RichardsGee&theme=github_dark" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RichardsGee&theme=github_dark" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardsGee&theme=github_dark" width="100%" />
-
-<h3>Foco técnico</h3>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**Agentes**
-
-Tool-use
-Memória
-Planejamento
-
-</td>
-<td width="25%" align="center">
-
-**Integrações**
-
-APIs
-Webhooks
-Eventos
-
-</td>
-<td width="25%" align="center">
-
-**Dados**
-
-PostgreSQL
-RAG
-Analytics
-
-</td>
-<td width="25%" align="center">
-
-**Operações**
-
-Automação
-Observabilidade
-Escalabilidade
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<sub>Projetando sistemas em que a inteligência artificial participa diretamente da operação.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284C7,35:0E7490,70:16A34A,100:F97316&height=8&section=footer" width="100%" />
-
-</div>
+> Building systems where AI is not just an interface, but an active component of the operation.
