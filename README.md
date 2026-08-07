@@ -72,3 +72,12 @@ Focused on building reliable architectures where AI can **use tools, retrieve co
 ![Profile Views](https://komarev.com/ghpvc/?username=RichardsGee\&style=flat-square\&color=0284C7)
 
 </div>
+
+### `> github --activity`
+
+<div align="center">
+
+<img width="64%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardsGee&theme=github_dark&animation=draw" />
+<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RichardsGee&theme=github_dark&hide_logo=true" />
+
+</div>
